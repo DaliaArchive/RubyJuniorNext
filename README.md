@@ -53,7 +53,7 @@ that cover all your App.
 
 Draw clear and nice to see [Wireframes](https://www.google.com/search?q=how+to+make+Wireframes&oq=how+to+make+Wireframes). Don't understimate the part of *nice to see*, you have to put attention
 to everything you do, to every step, this is an important mindset and a very good habit. And this
-start in how you massage your ideas. You don't need to use professional and expensive tools to do your
+starts in how you massage your ideas. You don't need to use professional and expensive tools to do your
 wireframes, [pen and paper](https://www.google.com/search?tbm=isch&q=hand+drawn+wireframe)
 [are perfect](https://www.youtube.com/watch?v=cFRvRtA-gtU) for this task.
 
@@ -254,6 +254,40 @@ I have my scepticism about following whatever the community is labeling as hot a
 But it is true that you will quickly lost track of new oportunities if you don't listen to
 what is happening there outside. Then you have to make your own criteria about what do you think
 is interesting and what looks more like a fast burning fire ball.
+
+## Listen to others
+
+There are many things happening there out side, and sometimes it can look overwhelming, frustrating
+and stressing. But everything looks different if we have good communicators helping us to
+understand what is going on.
+
+There are many resources online that will explain you in understandable terms and, many times, in
+an entertainment way what is the new thing and why, therically, it is important to you to know.
+
+I am old school so I was very fun of:
+
+- [Joel on Software](https://www.joelonsoftware.com/)
+- [Coding Horror](https://blog.codinghorror.com/)
+- [Paul Graham](http://www.paulgraham.com/)
+- [Seth's Blog](https://seths.blog/)
+
+They are more inspirational than technical but inspiration is the ignitor and we need to keep it active :).
+
+As a technical front page I am using recently:
+
+- [Hacker News](https://news.ycombinator.com/news)
+
+Find [your own sources](https://news.ycombinator.com/item?id=14842276), agregate them and subscribe yourself to their RSS (yes, old school RSS still works). There are many pleasant to use [RSS readers](https://www.google.com/search?q=rss+reader).
+
+Don't forget podcasts, there are many of good resources that uses this format and it may be more suitable for you. I remember with huge emotion my times following [Ryan Bates and his Railscast](http://railscasts.com/).
+
+You don't need to start following a massive list of resources, it is better starting with a small list
+(3 or 4) then you will find that one place brings you to another and little by little you start creating
+your own network.
+
+---
+
+- **Activity**: create your small list of Blog/Podcats to follow and aggreate them in a RSS/Podcast reader
 
 ## Write a blog
 
