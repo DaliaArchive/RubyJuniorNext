@@ -210,7 +210,7 @@ things through your ORM's API but you will be much more agile if you can query t
 You don't need to be an expert on SQL (it is a World in it self) but be sure you are confident with
 any kind of _SELECT_ operation including _JOIN_, _HAVING_, _GROUP BY_, _ORDER BY_, ...
 
-Try to find [online resources about SQL](https://www.google.com/search?q=how+to+learn+SQL+by+examples).
+Try to find [online resources about SQL](https://www.google.com/search?q=how+to+learn+SQL+by+examples). And [other interesting resources](https://news.ycombinator.com/item?id=18335723).
 
 ---
 
