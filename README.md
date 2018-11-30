@@ -1,6 +1,6 @@
 Web development is an art, and as any art requires a broad collection of skills. And not all
 of them are technical coding skills, there are many others related to communication, or
-idenfying business value, or estimation of costs, or understanding the stakeholders' (client, users, ...)
+identifying business value, or estimation of costs, or understanding the stakeholders' (client, users, ...)
 real needs.
 
 # Definition of the problem to solve
@@ -11,7 +11,7 @@ real thinking comes before.
 
 ## Work in a Pet project
 
-No better way of getting confortable with a new skill than to use it in something practical
+No better way of getting confortable with a new skill than to use it in something practical.
 
 The scope of the project has to be very narrow or we will end up struggling with complex
 business logic that generates confusion and will distract us from our main objective
@@ -51,9 +51,9 @@ Don't start coding anything until you have clear all the User's workflows of you
 Create [User stories](https://www.google.com/search?ei=RsH1W5mZDtmugAb-xbz4Dw&q=User+stories+tutorial)
 that cover all your App.
 
-Draw clear and nice to see [Wireframes](https://www.google.com/search?q=how+to+make+Wireframes&oq=how+to+make+Wireframes). Don't understimate the part of *nice to see*, you have to put attention
+Draw clear and nice to see [Wireframes](https://www.google.com/search?q=how+to+make+Wireframes&oq=how+to+make+Wireframes). Don't understimate the part of *nice to see*, you have to pay attention
 to everything you do, to every step, this is an important mindset and a very good habit. And this
-starts in how you massage your ideas. You don't need to use professional and expensive tools to do your
+starts in how you communicate your ideas. You don't need to use professional and expensive tools to do your
 wireframes, [pen and paper](https://www.google.com/search?tbm=isch&q=hand+drawn+wireframe)
 [are perfect](https://www.youtube.com/watch?v=cFRvRtA-gtU) for this task.
 
