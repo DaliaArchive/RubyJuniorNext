@@ -243,7 +243,7 @@ This will wired your brain in different ways making you more flexible in making 
 
 ---
 
-- **Activity**: Make courses of at least another 3 languages that use another paradigms. As a Ruby developer maybe you have to find some functional oriented language as [Golang](https://golang.org/) or [Elixir](https://elixir-lang.org/), pick up another on your taste.
+- **Activity** Complete courses of at least another 3 languages that use other paradigms. As a Ruby developer maybe you would like to learn a functional language like [Elixir](https://elixir-lang.org/) or a systems language like [Golang](https://golang.org/), pick up another on your taste.
 
 # Community and Communication
 
